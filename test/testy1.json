@@ -1,0 +1,23 @@
+{
+    "testy1":
+    {
+        "string_test1": "test one",
+        "string_test2": "test two",
+
+        "int_test_1": -1,
+        "int_test_2": 0,
+        "int_test_3": 1,
+        "int_test_4": -123,
+        "int_test_5": 123,
+
+        "float_test_1": -1.0,
+        "float_test_2": 0.0,
+        "float_test_3": 1.0,
+        "float_test_4": -123.123,
+        "float_test_5": 123.123,
+
+        "true_test": true,
+        "false_test": false,
+        "null_test": null
+    }
+}
